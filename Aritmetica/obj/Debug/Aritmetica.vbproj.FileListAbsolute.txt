@@ -1,0 +1,10 @@
+c:\users\u\Visual Studio 2013\Aritmetica\Aritmetica\bin\Debug\Aritmetica.exe.config
+c:\users\u\Visual Studio 2013\Aritmetica\Aritmetica\bin\Debug\Aritmetica.exe
+c:\users\u\Visual Studio 2013\Aritmetica\Aritmetica\bin\Debug\Aritmetica.pdb
+c:\users\u\Visual Studio 2013\Aritmetica\Aritmetica\bin\Debug\Aritmetica.xml
+c:\users\u\Visual Studio 2013\Aritmetica\Aritmetica\obj\Debug\Aritmetica.Form1.resources
+c:\users\u\Visual Studio 2013\Aritmetica\Aritmetica\obj\Debug\Aritmetica.Resources.resources
+c:\users\u\Visual Studio 2013\Aritmetica\Aritmetica\obj\Debug\Aritmetica.vbproj.GenerateResource.Cache
+c:\users\u\Visual Studio 2013\Aritmetica\Aritmetica\obj\Debug\Aritmetica.exe
+c:\users\u\Visual Studio 2013\Aritmetica\Aritmetica\obj\Debug\Aritmetica.xml
+c:\users\u\Visual Studio 2013\Aritmetica\Aritmetica\obj\Debug\Aritmetica.pdb
